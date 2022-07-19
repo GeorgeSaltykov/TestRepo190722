@@ -1,8 +1,6 @@
 Hello!
 qwerty
 zxcvb zxcvb
-Why????????
-for conflict(!)
 * commit 93c3abc8d64aa1b9a1aeb45b2a54d8cbfead5618 (HEAD -> master)
 | Author: GeorgeSaltykov <sonofpeley@gmail.com>
 | Date:   Wed Jul 13 15:35:20 2022 +0300
