@@ -1,11 +1,8 @@
 Hello!
 qwerty
 zxcvb zxcvb
-<<<<<<< HEAD
-Why?
-=======
+Why????
 for conflict (!)
->>>>>>> fcb73da2048097ef52923b682aff30e1f6f26cff
 * commit 93c3abc8d64aa1b9a1aeb45b2a54d8cbfead5618 (HEAD -> master)
 | Author: GeorgeSaltykov <sonofpeley@gmail.com>
 | Date:   Wed Jul 13 15:35:20 2022 +0300
