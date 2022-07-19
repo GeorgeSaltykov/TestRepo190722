@@ -1,9 +1,1 @@
-This is conflict data
-Switched to branch 'master'
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> git checkout master
-
-Switched to branch 'master'
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> git checkout master
-
-Switched to branch 'master'
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> 
+Hello from remote repo
