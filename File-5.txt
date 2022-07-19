@@ -1,0 +1,4 @@
+PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> git checkout master
+
+Switched to branch 'master'
+PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> 
