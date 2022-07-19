@@ -1,10 +1,5 @@
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> git branch
-* br2
-  master
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> git checkout master
-Switched to branch 'master'
-PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar> gi
-                                                    git log --graph
-* commit 93c3abc8d64aa1b9a1aeb45b2a54d8cbfead5618 (HEAD -> master)
-| Author: GeorgeSaltykov <sonofpeley@gmail.com>
-| Date:   Wed Jul 13 15:35:20 2022 +0300
+PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar\TestRepo190722> git checkout testB1
+Switched to branch 'testB1'
+PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar\TestRepo190722> git status    On branch testB1
+nothing to commit, working tree clean
+PS C:\Users\vator\OneDrive\Рабочий стол\gitSeminar\TestRepo190722> 
